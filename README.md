@@ -1,4 +1,2 @@
-# DiseaseClassifier
-Disease Classification Project Using Machine Learning
-This Project is a Disease Classification Project using Machine Learning on the basis of the Symptoms of the patient.
-It also include a web interface which is used to get the patients details and provide the prescription and precautions details to patient after their disease diagnosis.
+# MediPredict
+MediPredict is a comprehensive disease classification system utilizing machine learning to accurately diagnose diseases based on patient symptoms. The project integrates a user-friendly web interface where patients can input their details. Upon diagnosis, the system provides tailored prescriptions and precautionary measures. The backend leverages a linear regression model for prediction, ensuring high accuracy in disease identification.
